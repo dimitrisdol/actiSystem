@@ -1,0 +1,6 @@
+domain: cslab.ece.ntua.gr
+layout:
+- go.kubebuilder.io/v3
+projectName: actisystem
+repo: github.com/dimitrisdol/actiSystem
+version: "3"
